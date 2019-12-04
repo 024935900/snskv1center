@@ -402,7 +402,7 @@ a.read:hover {
 .w3layouts-banner-info h3 span {
     font-weight: 600;
     color: #eee;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .w3layouts-banner-info a {
